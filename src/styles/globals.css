@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Segoe';
+  src: url(/public/fonts/Segoe\ UI.ttf),
+  url(/public/fonts/Segoe\ UI\ Bold.ttf),
+  url(/public/fonts/Segoe\ UI\ Bold\ Italic.ttf),
+  url(/public/fonts/Segoe\ UI\ Italic.ttf);
+}
